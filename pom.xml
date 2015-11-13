@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.idmgroup</groupId>
     <artifactId>oclc-harvester2</artifactId>
     <packaging>jar</packaging>
-    <version>0.1.14.0-SNAPSHOT</version>
+    <version>0.1.14.0</version>
     <name>oclc-harvester2</name>
     <description>OAIHarvester2 from http://www.oclc.org/research/activities/oaiharvester2.html</description>
 
     <scm>
         <connection>scm:git:git://git@github.com:idmgroup/oaiharvester2.git</connection>
         <developerConnection>scm:git:git@github.com:idmgroup/oaiharvester2.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>oclc-harvester2-0.1.14.0</tag>
     </scm>
 
     <properties>
