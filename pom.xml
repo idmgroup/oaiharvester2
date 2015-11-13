@@ -4,14 +4,14 @@
     <groupId>com.idmgroup</groupId>
     <artifactId>oclc-harvester2</artifactId>
     <packaging>jar</packaging>
-    <version>0.1.14.0</version>
+    <version>0.1.14.1-SNAPSHOT</version>
     <name>oclc-harvester2</name>
     <description>OAIHarvester2 from http://www.oclc.org/research/activities/oaiharvester2.html</description>
 
     <scm>
         <connection>scm:git:git://git@github.com:idmgroup/oaiharvester2.git</connection>
         <developerConnection>scm:git:git@github.com:idmgroup/oaiharvester2.git</developerConnection>
-        <tag>oclc-harvester2-0.1.14.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
